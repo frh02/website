@@ -48,10 +48,10 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
+# manet image
 # To use, add an image named `manet.jpeg/png` to your page's folder. 
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/suj3od1uMv8)'
+  caption: 'Image credit: [**Unsplash**](https://media.istockphoto.com/photos/social-network-concept-picture-id1286694373?s=612x612)'
   focal_point: ""
   preview_only: false
 
