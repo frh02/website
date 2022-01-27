@@ -30,7 +30,7 @@ abstract: Cardio Vascular Disease (CVD) has become the largest single cause of d
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
