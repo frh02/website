@@ -9,10 +9,10 @@ authors:
 - Raghu Prasath V
 - Rahavi Selvarajan
 
-# Author notes (optional)
+<!-- # Author notes (optional)
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
+- "Equal contribution" -->
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
