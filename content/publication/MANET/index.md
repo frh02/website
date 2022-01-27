@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `manet.jpeg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/suj3od1uMv8)'
+  <!--caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/suj3od1uMv8)'-->
   focal_point: ""
   preview_only: false
 
@@ -61,12 +61,12 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- MANET
+- manet
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: MANET
+slides: manet
 ---
