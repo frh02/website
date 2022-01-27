@@ -25,7 +25,14 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Cardio Vascular Disease (CVD) has become the largest single cause of death among humans nowadays.
+Retinal fundus images play a significant role in the identification and stratification of CVD. CVD can be
+foreseen by the presence of hemorrhage, exudates, micro aneurysms, and corkscrew arteries in the retinal
+fundus. In this work, a deep learning model developed using Convolutional Neural Networks (CNN) is
+proposed for the prediction of CVD. The proposed model is trained with the anomalies in fundus images
+using image processing tools. Nearly 249 images from publicly available datasets like HRF, DIARETDB1
+and MESSIDOR are used for training and testing the model. The trained model is able to predict CVD with
+an accuracy of 88.5%.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
