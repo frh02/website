@@ -1,19 +1,14 @@
----
++++
 title: "Prediction Of Cardio Vascular Disease From Retinal Fundus Images Using Neural Networks"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
 authors:
 - E Malar
 - Raghu Prasath V
 - Rahavi Selvarajan
 
-date: "May 2020"
+date: "2020-05-01T16:00:00"
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "May 2020"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -48,11 +43,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
+[image]
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/suj3od1uMv8)'
   focal_point: ""
-  preview_only: false
-
+  
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
