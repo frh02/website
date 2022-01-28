@@ -18,7 +18,7 @@ publication_types: []
 publication: International Journal of Advanced Science and Technology
 publication_short: IJAST
 
-abstract: Cardio Vascular Disease (CVD) has become the largest single cause of death among humans nowadays. Retinal fundus images play a significant role in the identification and stratification of CVD. CVD can be foreseen by the presence of hemorrhage, exudates, micro aneurysms, and corkscrew arteries in the retinal fundus. In this work, a deep learning model developed using Convolutional Neural Networks (CNN) is proposed for the prediction of CVD. The proposed model is trained with the anomalies in fundus images using image processing tools. Nearly 249 images from publicly available datasets like HRF, DIARETDB1 and MESSIDOR are used for training and testing the model. The trained model is able to predict CVD with an accuracy of 88.5%.
+summary: Cardio Vascular Disease (CVD) has become the largest single cause of death among humans nowadays. Retinal fundus images play a significant role in the identification and stratification of CVD. CVD can be foreseen by the presence of hemorrhage, exudates, micro aneurysms, and corkscrew arteries in the retinal fundus. In this work, a deep learning model developed using Convolutional Neural Networks (CNN) is proposed for the prediction of CVD. The proposed model is trained with the anomalies in fundus images using image processing tools. Nearly 249 images from publicly available datasets like HRF, DIARETDB1 and MESSIDOR are used for training and testing the model. The trained model is able to predict CVD with an accuracy of 88.5%.
 
 tags: []
 
