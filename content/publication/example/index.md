@@ -45,6 +45,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/suj3od1uMv8)'
   focal_point: ""
+  preview_only: false
   
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
