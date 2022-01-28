@@ -11,7 +11,7 @@ authors:
 - Sai Ishwarya M
 - Vijay S
 
-date: "Dec 2020"
+date: "2020-12-01T16:00:00"
 doi: "10.1109/RAICS51191.2020.9332510"
 
 # Schedule page publish date (NOT publication's date).
