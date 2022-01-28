@@ -41,13 +41,80 @@ experience:
     company_url: 'https://shiphrahbiomedical.com/'
     company_logo: ""
     location: Toronto, Canada
-    date_start: '2016-01-01'
+    date_start: '2022-01-01'
     date_end: ''
     description: |2-
       * Working in collaboration with [Dalla Lana School of Public Health, University of Toronto](https://www.dlsph.utoronto.ca/) and advised by [Dr.Elham Dolatabadi] (https://ihpme.utoronto.ca/faculty/elham-dolatabadi/).
       * Working on a project at the intersection of Artificial Intelligence, Medicine, and Engineering.
       * Our team is trying to solve one of the biggest challenges during pregnancy: sleep.
 
+  - title: Teaching Assistant
+    company: University of Toronto
+    company_url: 'https://www.utoronto.ca/'
+    company_logo: ""
+    location: Toronto, Canada
+    date_start: '2022-01-01'
+    date_end: ""
+    descriptions: |2-
+      * Teaching Assistant for an undergraduate course: MIE253H1-Data Modelling.
+      * Responsible for conducting lab sessions and tutorials to students.
+      * Responsible for Assignment and Test grading.
+      * Responsible for setting questions for Assignments and term tests.
+    
+  - title: Graduate Student Researcher
+    company: Multimedia lab, University of Toronto
+    company_url: 'https://www.dsp.utoronto.ca/'
+    company_logo: ''
+    location: Toronto, Canada
+    date_start: '2020-10-01'
+    date_end: '2021-12-31'
+    descriptions: |2-
+      * Worked on a project at the intersection of Computer Vision, Deep Learning and Computational Pathology.
+      * Advised by [Dr. Konstantinos Plataniotis](https://www.comm.utoronto.ca/~kostas/) and [Dr.Mahdi Hosseini](https://www.unb.ca/faculty-staff/directory/j-herbert-smith-centre-tme/hosseini-mahdi.html) 
+      * Developed contrastive learning network architecture which incorporated probablistic modelling for multi-label multi-class image classification.
+      * Worked on the mathematical foundation of the network - Gaussian probability, Statistical divergences and Calculus.
+      * Built the designed model and conducted experiments on pathological datasets for different convolutional networks.
+      * Our model performed better than the traditional fully connected networks for almost all the experiments.
+    
+  - title: 
+    company:
+    company_url:
+    company_logo:
+    location:
+    date_start:
+    date_end:
+    descriptions: |2-
+    
+  - title: 
+    company:
+    company_url:
+    company_logo:
+    location:
+    date_start:
+    date_end:
+    descriptions: |2-
+    
+  - title: 
+    company:
+    company_url:
+    company_logo:
+    location:
+    date_start:
+    date_end:
+    descriptions: |2-
+    
+   - title: 
+    company:
+    company_url:
+    company_logo:
+    location:
+    date_start:
+    date_end:
+    descriptions: |2-
+    
+    
+      
+
 design:
-  columns: '2'
+  columns: '4'
 ---
