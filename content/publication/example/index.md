@@ -12,7 +12,7 @@ doi: ""
 
 # Publication type.
 # Legend: 
-publication_types: ["2"]
+publication_types: []
 
 # Publication name and optional abbreviated publication name.
 publication: International Journal of Advanced Science and Technology
