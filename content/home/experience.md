@@ -44,7 +44,7 @@ experience:
     date_start: '2022-01-01'
     date_end: ''
     description: |2-
-      * Working in collaboration with [Dalla Lana School of Public Health, University of Toronto](https://www.dlsph.utoronto.ca/) and advised by [Dr.Elham Dolatabadi] (https://ihpme.utoronto.ca/faculty/elham-dolatabadi/).
+      * Working in collaboration with [Dalla Lana School of Public Health, University of Toronto](https://www.dlsph.utoronto.ca/) and advised by [Dr.Elham Dolatabadi](https://ihpme.utoronto.ca/faculty/elham-dolatabadi/).
       * Working on a project at the intersection of Artificial Intelligence, Medicine, and Engineering.
       * Our team is trying to solve one of the biggest challenges during pregnancy: sleep.
 
