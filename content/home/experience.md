@@ -76,41 +76,7 @@ experience:
       * Built the designed model and conducted experiments on pathological datasets for different convolutional networks.
       * Our model performed better than the traditional fully connected networks for almost all the experiments.
     
-  - title: 
-    company:
-    company_url:
-    company_logo:
-    location:
-    date_start:
-    date_end:
-    descriptions: |2-
-    
-  - title: 
-    company:
-    company_url:
-    company_logo:
-    location:
-    date_start:
-    date_end:
-    descriptions: |2-
-    
-  - title: 
-    company:
-    company_url:
-    company_logo:
-    location:
-    date_start:
-    date_end:
-    descriptions: |2-
-    
-   - title: 
-    company:
-    company_url:
-    company_logo:
-    location:
-    date_start:
-    date_end:
-    descriptions: |2-
+  
     
     
       
