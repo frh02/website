@@ -43,9 +43,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RahaviSelva30
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PAab4NEAAAAJ&hl=en
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PAab4NEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/RahaviSelvarajan
@@ -71,7 +71,7 @@ I am a graduate student in the Department of Electrical and Computer Engineering
 
 My research interests includes design and implementation of AI models especially in the field of Healthcare. Highly engrossed in fields like Deep learning, Computer Vision and Data Science. Mastered the skills like analytical thinking, and problem solving by doing research internships at IIT Palakkad and Indigenous 5G testbed, IIT Madras. My bachelor dissertation strengthened my knowledge on Medical Image processing and Deep learning and also enhanced my skills on team management and scientific writing.
 
-Looking forward to work on interesting projects involving Computer Vision and AI. Feel free to approach me on [LinkedIn](https://www.linkedin.com/in/rahavi-selv/).
+My research publications can be found in [Google Scholar](https://scholar.google.com/citations?user=PAab4NEAAAAJ&hl=en) page. Looking forward to work on interesting projects involving Computer Vision and AI. Feel free to approach me on [LinkedIn](https://www.linkedin.com/in/rahavi-selv/).
 
 
 
