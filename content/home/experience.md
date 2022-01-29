@@ -75,8 +75,33 @@ experience:
       * Worked on the mathematical foundation of the network - Gaussian probability, Statistical divergences and Calculus.
       * Built the designed model and conducted experiments on pathological datasets for different convolutional networks.
       * Our model performed better than the traditional fully connected networks for almost all the experiments.
+
+  - title: Research Intern
+    company: Indian Institute of Technology (IITM)
+    company_url: 'https://www.iitm.ac.in/'
+    company_logo: ''
+    location: Chennai, India
+    date_start: '2019-12-01'
+    date_end: '2020-03-01'
+    descriptions: |2-
+      * Worked under [Dr. Radhakrishna Ganti](https://www.ee.iitm.ac.in/rganti/) in the [5G testbed laboratory, IITM](https://www.ee.iitm.ac.in/5g/) - a real world deployment of 5G test bed.
+      * Our team worked on the implementation and optimization of Digital Pre-Distortion (DPD) module to achieve low Adjacent Channel Leakage Ratio.
+      * Developed a Verilog Testbench code for the DPD IP.
+      * Programmed the ZCU111 FPGA board with the synthesized design.
     
-  
+  - title: Summer Intern
+    company: Indian Institute of Technology (IITPKD)
+    company_url: 'https://iitpkd.ac.in/'
+    company_logo: ''
+    location: Palakkad, India
+    date_start: '2019-05-01'
+    date_end: '2019-06-01'
+    descriptions: |2-
+      * Worked on modelling and estimation of Non-linear Communication Channels using Deep Learning under [Dr. Lakshmi Narasimhan Theagarajan](https://iitpkd.ac.in/people/lakshminarasimhan).
+      * Simulated non-linear channels using Volterra, Wiener and Hammerstein Models which replicated the under-water communication channels.
+      * Added random polynomial equations of higher orders as a non-linearity.
+      * Built and implemented a deep learning network for the estimation of non-linear polynomial co-efficients.
+
     
     
       
