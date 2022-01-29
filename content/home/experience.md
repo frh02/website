@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 40
 
 title: Experience
 subtitle:
@@ -55,7 +55,7 @@ experience:
     location: Toronto, Canada
     date_start: '2022-01-01'
     date_end: ""
-    descriptions: |2-
+    description: |2-
       * Teaching Assistant for an undergraduate course: MIE253H1-Data Modelling.
       * Responsible for conducting lab sessions and tutorials to students.
       * Responsible for Assignment and Test grading.
@@ -68,7 +68,7 @@ experience:
     location: Toronto, Canada
     date_start: '2020-10-01'
     date_end: '2021-12-31'
-    descriptions: |2-
+    description: |2-
       * Worked on a project at the intersection of Computer Vision, Deep Learning and Computational Pathology.
       * Advised by [Dr. Konstantinos Plataniotis](https://www.comm.utoronto.ca/~kostas/) and [Dr.Mahdi Hosseini](https://www.unb.ca/faculty-staff/directory/j-herbert-smith-centre-tme/hosseini-mahdi.html) 
       * Developed contrastive learning network architecture which incorporated probablistic modelling for multi-label multi-class image classification.
@@ -83,7 +83,7 @@ experience:
     location: Chennai, India
     date_start: '2019-12-01'
     date_end: '2020-03-01'
-    descriptions: |2-
+    description: |2-
       * Worked under [Dr. Radhakrishna Ganti](https://www.ee.iitm.ac.in/rganti/) in the [5G testbed laboratory, IITM](https://www.ee.iitm.ac.in/5g/) - a real world deployment of 5G test bed.
       * Our team worked on the implementation and optimization of Digital Pre-Distortion (DPD) module to achieve low Adjacent Channel Leakage Ratio.
       * Developed a Verilog Testbench code for the DPD IP.
@@ -96,7 +96,7 @@ experience:
     location: Palakkad, India
     date_start: '2019-05-01'
     date_end: '2019-06-01'
-    descriptions: |2-
+    description: |2-
       * Worked on modelling and estimation of Non-linear Communication Channels using Deep Learning under [Dr. Lakshmi Narasimhan Theagarajan](https://iitpkd.ac.in/people/lakshminarasimhan).
       * Simulated non-linear channels using Volterra, Wiener and Hammerstein Models which replicated the under-water communication channels.
       * Added random polynomial equations of higher orders as a non-linearity.
