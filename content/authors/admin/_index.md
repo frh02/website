@@ -6,12 +6,14 @@ title: Rahavi Selvarajan
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student at University of Toronto
+role: Graduate Student | Machine Learning and Computer Vision Enthusiast | Teaching Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Toronto
   url: https://www.utoronto.ca/
+- name: Shiphrah Biomedical Inc.,
+  url: https://shiphrahbiomedical.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computer Vision, Deep Learning and AI in Healthcare.
@@ -37,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:rahavi.selvarajan@mail.utoronto.ca'
+# - icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:rahavi.selvarajan@mail.utoronto.ca'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RahaviSelva30
@@ -56,9 +58,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
