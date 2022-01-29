@@ -101,9 +101,7 @@ experience:
       * Simulated non-linear channels using Volterra, Wiener and Hammerstein Models which replicated the under-water communication channels.
       * Added random polynomial equations of higher orders as a non-linearity.
       * Built and implemented a deep learning network for the estimation of non-linear polynomial co-efficients.
-
-    
-    
+   
       
 
 design:
